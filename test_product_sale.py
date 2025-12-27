@@ -1,5 +1,5 @@
 # test_product_sales.py
-from product_sales import process_sale
+from product_sale import process_sale
 
 def test_default_product_sale():
     output = process_sale()
